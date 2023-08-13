@@ -1,0 +1,5 @@
+1.網頁檔無法於本地端執行，需上傳至網頁伺服器後透過瀏覽器開啟網頁方可執行。
+2.可利用Gitgub的Github Page功能，將Github儲存庫當作虛擬網頁伺服器，以Github Page提供的網址開啟網頁方可執行。
+3.使用行動載具(手機、平板電腦)時，可以利用瀏覽器的"新增到主畫面(或是安裝應用程式)"功能建立網頁捷徑，開啟後可以全螢幕執行。
+4.網頁檔如有更新，會放在https://github.com/Eggheadboy/crpd-boardgame 上。
+5.範例網站：https://eggheadboy.github.io/crpd-boardgame/ ，亦可直接使用此網站。
